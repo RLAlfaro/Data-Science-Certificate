@@ -1,5 +1,0 @@
-Esta es una línea adicional
-Esta es una segunda línea adicional
-Nueva línea - actividad 5 
-Segunda nueva línea - actividad 5
-Esta vez arbimos el archivo como verdadero pythonista y agregamos una linea
