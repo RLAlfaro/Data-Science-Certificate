@@ -1,0 +1,39 @@
+01
+https://www.emisorpodcasting.com/show/turing
+http://gantillano.blogspot.com/2013/11/chains-frigyes-karinthy.html
+
+
+
+02
+https://databricks.com/try-databricks
+
+from pyspark.sql import SparkSessionsc = SparkSession.builder.master("local[*]").getOrCreate()
+
+%fs ls /FileStore/tables
+
+
+03
+Cloudera
+mapR
+hortonworks
+https://networkdatascience.ceu.edu/article/2017-07-08/network-science-predicts-who-dies-next-game-thrones
+
+
+04
+https://datacolumn.iaa.ncsu.edu/blog/2016/03/27/marvel-cinema-universe-network-analysis/
+while (1){ query()}
+pyspark sql date_format
+
+
+05
+
+https://kafka.apache.org/videos#applications_use_cases
+
+https://www.kafka-summit.org/events/kafka-summit-london-2022/about
+
+https://m.youtube.com/user/TheApacheSpark
+
+
+
+
+
